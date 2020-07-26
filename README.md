@@ -1,6 +1,6 @@
 # codebackup
 `DecisionTree_RandomForest` implements a DecisionTree and RandomForest classifier by using scikit-learn <br>
-`Pytorch implements` a full conneted neural network and CNN by using pytorch and test in CIFA10 <br>
+`Pytorch implements` a full connected neural network and CNN by using pytorch and test in CIFA10 <br>
 `SVM` implements a svm by using scikit-learn <br>
 `e5_1im` implements a video compression algorithm which contains still image coding and motion estimation <br>
 `fc_net` implements a full connected neural network class <br>
